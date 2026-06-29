@@ -12,9 +12,9 @@
 
 ## What I do
 
-I design and build enterprise data platforms for regulated industries — pharma, life sciences, managed care. Two decades embedded at a Fortune 500 pharmaceutical company across cloud migrations, analytics platforms supporting $1.5B+ in contract decisions, and automated pipelines replacing 25+ hours of manual work weekly.
+I design and build enterprise data platforms for regulated industries — pharma, life sciences, managed care. Over the past two decades I've architected enterprise data platforms for a Fortune 500 pharmaceutical company, spanning cloud migrations, analytics platforms supporting $1.5B+ in contract decisions, and automation replacing 25+ hours of manual work each week.
 
-The work I'm best known for: an Oracle → Snowflake migration across 200+ tables that cut query latency by 60%, and an enterprise analytics platform that gave finance and managed care leadership real-time visibility where they had weekly Excel cycles before.
+Highlights from my enterprise work include: an Oracle → Snowflake migration across 200+ tables that cut query latency by 60%, and an enterprise analytics platform that gave finance and managed care leadership real-time visibility.
 
 ---
 
@@ -51,7 +51,7 @@ I believe engineers learn best by building real systems, not memorizing features
 
 ---
 
-## Stack
+## Technical Stack
 
 ```
 Cloud & Warehouse   Snowflake · Azure (ADF, ADLS, Key Vault, Container Apps)
@@ -71,3 +71,5 @@ Data Sources        IQVIA LAAD · Symphony Health · Claims Data · MMIT · Veev
 - **Enterprise Data Architect** — 20 years, Fortune 500 pharma (via IntegriChain / Cumberland / Mindlance)
 
 Pharma domain: managed care analytics, contract performance, commercial data platforms, HIPAA/FDA compliance.
+
+### Currently exploring the intersection of modern data engineering, AI engineering, and healthcare analytics through open-source projects built in public.
