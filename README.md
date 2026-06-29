@@ -1,4 +1,4 @@
-# Intiaz "Marc" Bacchus — Enterprise Data Architect
+# Intiaz "Marc" Bacchus — AI and Data Platform Architect
 
 **20 years building enterprise data platforms. Currently building in public.**
 
@@ -22,7 +22,7 @@ The work I'm best known for: an Oracle → Snowflake migration across 200+ table
 
 ### 🏥 [Healthcare Data Engineering Pipeline](https://github.com/marcbacchus/healthcare-data-engineering-pipeline)
 
-An end-to-end healthcare data platform built in public, June–August 2026. Production-grade patterns across the full modern stack — Snowflake, dbt, Azure Data Factory, Databricks, MLflow, and a LangChain RAG agent — using public CMS, FDA FAERS, and Synthea data. Weekly build progress posted on [LinkedIn](https://linkedin.com/in/marcbacchus).
+An end-to-end healthcare data platform built in public, June–August 2026. Production-grade patterns across the full modern stack — Snowflake, dbt, Azure Data Factory, Databricks, MLflow, and a LangChain RAG agent — using public CMS, FDA FAERS, and Synthea data.
 
 ---
 
@@ -69,6 +69,5 @@ Data Sources        IQVIA LAAD · Symphony Health · Claims Data · MMIT · Veev
 ## Background
 
 - **Enterprise Data Architect** — 20 years, Fortune 500 pharma (via IntegriChain / Cumberland / Mindlance)
-- **M.S. Information Systems** — Stevens Institute of Technology
 
 Pharma domain: managed care analytics, contract performance, commercial data platforms, HIPAA/FDA compliance.
