@@ -82,7 +82,3 @@ Data Sources        IQVIA LAAD · Symphony Health · Claims Data · MMIT · Veev
 - **M.S. Information Systems** — Stevens Institute of Technology
 
 Pharma domain: managed care analytics, contract performance, commercial data platforms, HIPAA/FDA compliance.
-
----
-
-*Available for senior data architect and AI engineering roles in pharma/life sciences — September 2026.*
