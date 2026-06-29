@@ -77,7 +77,7 @@ Data Sources        IQVIA LAAD · Symphony Health · Claims Data · MMIT · Veev
 
 - **Enterprise Data Architect** — 20 years, Pfizer HQ (via IntegriChain / Cumberland / Mindlance)
 - **NYU Graduate Instructor** — 8+ years, School of Professional Studies
-- **Columbia University** — Applied Analytics program (2020)
+- **Columbia University** — Adjunct Instructor, Applied Analytics program (2020)
 - **DeVry University** — Professor, Computer Information Systems (2008–2014)
 - **M.S. Information Systems** — Stevens Institute of Technology
 
